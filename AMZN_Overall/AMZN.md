@@ -1,6 +1,6 @@
-#AMZN
+# AMZN
 
-##Menu
+## Menu
 * [开店到销售过程](#开店到销售过程)
 *  [选品](#选品)
 *  [Helium 10](#Helium) 
@@ -72,7 +72,7 @@ Helium 10是一款付费的亚马逊选品软件 (97 USD/month)
 * Review Rating取值范围的思考
  * Why 4.5 as upper bound? It means we can still do some improvements since it 	has not got to 5.0.
 
-####选定某个感兴趣的产品之后用Helium插件看这个产品每个月的搜索量和销量。
+#### 选定某个感兴趣的产品之后用Helium插件看这个产品每个月的搜索量和销量。
 * Look for high Search Volume (~6000)
 * Sort products by Sales
 * Remove unrelated products and get the top 10 sales for the product that you are looking into
@@ -101,11 +101,11 @@ Three major functions
 * [Product Sprite](#Product_Sprite)
 * [Tracking Sprite](#Tracking_Sprite)
 
-####<a name="Keyword_Sprite"></a> Keyword Sprite
+#### <a name="Keyword_Sprite"></a> Keyword Sprite
 ##### Keyword Mining - indicates the wording that you want in the listing (title, 5ps, etc.)
 ##### Keyword Research - search by the month period and criteria for seasonal or trendy product (e.g. rating >= 5% && increasing rate for last 3 months >= 10%)
 ##### Reverse ASIN Research - tells you how your competitor layout the keywords and looks for the trend of keywords. The weight should also be taken into consideration where higher the rank better the key word it is.
-####<a name="Product_Sprite"></a> Product Sprite
+#### <a name="Product_Sprite"></a> Product Sprite
 ##### Competitor Lookup - TODO
 ##### Product Research - TODO
 ##### Market Research
@@ -117,7 +117,7 @@ b competition and monopoly - Sample Size, Concentration, and Avg Monthly Sales T
 * Look for the count of comments, rates and Fullfillment
 c doability - View this product list
 * Look for the 
-####<a name="Tracking_Sprite"></a> Tracking Sprite
+#### <a name="Tracking_Sprite"></a> Tracking Sprite
 
 
 
@@ -126,7 +126,7 @@ c doability - View this product list
 * [Listing中牌不键字是否完整，调研关键字的意义](#完整)
 * [逐项验证Listing编辑是否合格](#验证)
 
-####<a name="合格"></a>合格的Listing
+#### <a name="合格"></a>合格的Listing
 1. Helium 10评分 10/10
 2. 主图的清晰度，场景，视频
 3. 虚拟捆绑销售
@@ -134,25 +134,25 @@ c doability - View this product list
 5. A+ page
 6. Q&A
 
-####<a name="完整"></a>Listing中牌不键字是否完整，调研关键字的意义
+#### <a name="完整"></a>Listing中牌不键字是否完整，调研关键字的意义
 用Helium 10的Scribbles工具来检验标题和五点描述。目的是将调研的关键字全部排布到标题和五点描述里。
 
-####<a name="验证"></a>逐项验证Listing编辑是否合格
+#### <a name="验证"></a>逐项验证Listing编辑是否合格
 参照[教程](https://zhuanlan.zhihu.com/p/108264787)
 
 ## <a name="物流"></a>物流
 
-###总体流程: FBA头程 --> FBA --> 上架 --> Customers
+### 总体流程: FBA头程 --> FBA --> 上架 --> Customers
 
-####两种物流方式：
+#### 两种物流方式：
 
 1. [FBA](#FBA)， 2. [FBM](#FBM)
 
-####Why FBA over FBM? 
+#### Why FBA over FBM? 
 
 从中国发到亚马逊的仓库 ([FBA](#FBA))，亚马逊会帮你做包装邮寄等工作。这样就不会受到物流和库存的限制。可以把精力放在推广自己产品的方面。
 
-####FBA头程
+#### FBA头程
 
 FBA头程服务就是指从中国将货物运至美国亚马逊仓库并且负责清关。以下列出四种主流方式。
 
@@ -187,21 +187,21 @@ FBA头程服务就是指从中国将货物运至美国亚马逊仓库并且负�
 </p>
 </details>
 
-####FBA仓储费
+#### FBA仓储费
 
 |Period| 标准尺寸|大件|
 | :---: |:---:| :---:|
 |1 月 - 9 月| 每立方英尺 $0.69 |每立方英尺 $0.48|
 |10 月 - 12 月| 每立方英尺 $2.40 |每立方英尺 $1.20|
 
-####长期仓储费：
+#### 长期仓储费：
 长期仓储费适用于储存在亚马逊运营中心超过 365 天的商品。
 
-####上架
+#### 上架
 货物到达亚马逊FBA之后要14天左右的时间才能上架。
 
 ## <a name="经营与推广"></a>经营与推广
-####Social Media Marketing:
+#### Social Media Marketing:
 找到相应产品up主来做广告：例，假睫毛。找到YouTube的美妆up主进行洽谈。在视频中推广假睫毛。在发布后的24小时内卖出的假睫毛都会给她commission fee。
 通过了解客户群体来画客户画像来决定在什么平台上推广品牌。e.g. 用户喜欢在哪里看这个产品的信息（Instagram， Facebook，Pintrest）。Social Media推广的过程：brand awareness（希望大家能了解到你的品牌及其文化），growth loyalty（share公司近况，产品相关的新闻，体现出品牌的个性吸引特定的人，可以通过征集意见（颜色，名字，等），提供customer service），
 #### Multiple Platforms:
@@ -337,13 +337,3 @@ Cons of FBA:
 </details>
 
 <a name="FBM"></a>FBM (Fulfullment By Merchandise)： Merchandise takes the responsibility for storing, shipping, and returning the packages for the sales on Amazon.
-
-
-####Meeting Notes:
-
-####ToDo:
-1. ask for 营业许可
-
-####Q: 
-
-1. 水电煤账单一定需要吗。
