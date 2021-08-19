@@ -1,6 +1,7 @@
 # AMZN
 
 ## Menu
+*  [软件](#software)
 *  [Listing](#Listing)
 *  [物流](#物流)
 *  [经营与推广](#经营与推广)
@@ -8,6 +9,15 @@
 *  [产品生命周期](#产品生命周期)
 *  [A9 Algroithm](#A9)
 *  [Glossary](#Glossary)
+
+## <a name="software"></a>Software
+在日本可以用的Amazon相关调研软件
+* Zon.Ask (日本站不行，英美可)
+* BQool - BigCentral (关键词research 免费28天)
+* AsinSeed (比起Sellersprite资料多)
+* Sellersprite (可看关键词分析，如趋势和热度)
+* keywordtool.io (搜长尾关键词)
+* Keywordtooldominator (搜长尾关键词，可以查询关键词频率)
 
 ## <a name="Listing"></a>Listing
 * [合格的Listing](#合格)
@@ -66,7 +76,7 @@ Long Tail Keyword：网站上的非目标关键词但与目标关键词相关的
 2. 设置好关键字
 
 ## <a name="产品生命周期"></a>产品生命周期
-####产品的生命周期：
+#### 产品的生命周期：
 所谓产品的生命周期其实指的就是一个Keywords的提炼周期。
 Broad Keywork Intent. Single words, Generic Phrases
 Specific Keyword Intent. Detailed Search Phrases
